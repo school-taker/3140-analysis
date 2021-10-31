@@ -17,6 +17,8 @@
     - With `xsv` directly, this is `xsv fmt -t \t [INPUT]`
 - run `make get-total`
 
+**Note**: The `rev.tsv` file has been made available for thos unable to install the required tooling. You can jump right to the awk step with it.
+
 ## Sample Output
 ```
 4607974781      MTA New York City Transit
